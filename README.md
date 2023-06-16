@@ -14,6 +14,7 @@ To use the addon:
 4. If you are using an Audio bus with a name other than "Master", update the Bus Name script variable with that name.
 5. Add the Spectrum Analyzer effect to your Audio Bus noting the position of the effect (the first effect is index 0, the second index 1 etc.)
 6. If the Spectrum Analyzer Effect is not the first effect in your Audio bus (index 0), update the Spectrum Effect Index script variable with the correct index number.
+7. Add an AudioStreamPlayer to your scene and play music on the Bus you have configured in steps 4-6
 
  Optional Script Variables:
 
@@ -24,3 +25,5 @@ To use the addon:
  * Frequency Max - The maximum frequency to include in the equalizer
  * Min DB - The minimum decibel level used for normalizing the results of the FFT
  * Max FPS - The maximum FPS to consider. Usually this is 60 FPS but your game may run at a higher rate
+
+As CustomImageEqualizer is derived from Control, you can size and position it like any other Control. The equalizer will be scaled to fit the desired number of rows and columns of your selected image.
