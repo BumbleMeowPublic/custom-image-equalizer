@@ -1,4 +1,4 @@
-#CustomImageEqualizer
+# CustomImageEqualizer
 
 CustomImageEqualizer is an addon for Godot Engine providing a graphical equalizer Control using a custom image as the graphical elements of the equalizer.
 
