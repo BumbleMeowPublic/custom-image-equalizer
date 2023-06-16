@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/CIEq.mp3-5d0e1dd4f780961f4351e6f0f8f957b1.mp3str"
+
+[deps]
+
+source_file="res://CIEq.mp3"
+dest_files=[ "res://.import/CIEq.mp3-5d0e1dd4f780961f4351e6f0f8f957b1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

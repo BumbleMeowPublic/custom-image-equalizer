@@ -1,0 +1,1 @@
+../example/addons/custom_image_equalizer.gd

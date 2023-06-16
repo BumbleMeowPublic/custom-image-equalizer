@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://addons/custom_image_equalizer.gd" type="Script" id=1]
+[ext_resource path="res://icon.png" type="Texture" id=2]
+
+[node name="CustomImageEqualizer" type="Control"]
+script = ExtResource( 1 )
+image_texture = ExtResource( 2 )
