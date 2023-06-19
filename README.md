@@ -6,6 +6,8 @@ The addon can be found under addons/custom-image-equalizer. An example Godot pro
 
 CustomImageEqualizer has been tested on version 3.5.2-stable and uses GDScript.
 
+The included image and music are original works by BumbleMeow, LLC and are free to use undert he MIT license.
+
 To use the addon:
 
 1. Copy addons/custom-image-equalizer to your addons folder (creating an addons folder if you don't already have one).
