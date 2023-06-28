@@ -2,6 +2,8 @@
 
 CustomImageEqualizer is an add-on for Godot Engine providing a graphical equalizer Control using a custom image as the graphical elements of the equalizer.
 
+[CustomImageEqualizer Demo](https://youtu.be/Mmz0w2cbLp4)
+
 The add-on can be found under addons/custom-image-equalizer. An example Godot project has been included under the example folder.
 
 CustomImageEqualizer has been tested on version 3.5.2-stable and uses GDScript.
