@@ -31,3 +31,8 @@ To use the add-on:
  * Max FPS - The maximum FPS to consider. Usually this is 60 FPS but your game may run at a higher rate
 
 As CustomImageEqualizer is derived from Control, you can size and position it like any other Control. The equalizer will be scaled to fit the desired number of rows and columns of your selected image.
+
+This add-on was used (in a modified form) in our mobile game [BebeBoop](https://apps.apple.com/app/id6448795283) in
+the "Posters" ["DJ Meow Meow"](https://www.bumblemeow.com/bebeboop#djmm-description) and 
+["Raining Teddies"](https://www.bumblemeow.com/bebeboop#rainingteddies-description) as well as the Karaoke version
+of "Raining Teddies" on [YouTube](https://youtu.be/BIPHg9bDsnA).
